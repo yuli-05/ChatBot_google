@@ -1,0 +1,88 @@
+[
+  {
+    "id": "44d0e846-eb87-4215-bd5b-d92756a0a8a9",
+    "data": [
+      {
+        "text": "que onda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33428aad-1e03-4869-ba15-831f333cc36e",
+    "data": [
+      {
+        "text": "hola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64f02523-3ba9-4891-b97d-442bddc6ad02",
+    "data": [
+      {
+        "text": "holi",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "dcdc0c7f-8f27-43d1-9a05-48b43159b88d",
+    "data": [
+      {
+        "text": "hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81c8374d-ef3a-49b7-bea6-4049a1cc1845",
+    "data": [
+      {
+        "text": "saludos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ee413c5-37ec-4146-a870-6ca5222aaf87",
+    "data": [
+      {
+        "text": "hey ho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6389b0af-cce1-4b2d-b5bf-582f1acdc1ec",
+    "data": [
+      {
+        "text": "chao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
