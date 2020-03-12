@@ -1,0 +1,98 @@
+{
+  "id": "00170282-a9af-42ec-b3b0-016086a58b90",
+  "name": "RSVPHack",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "926a3d4b-b58b-4142-a2c4-46ed5ad7cba9",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Claro, para comenzar tu registro ¿Podrás proporcionarme tu nombre, por favor?"
+            },
+            {
+              "lang": "es",
+              "value": "Muy bien, ¿Cuál es tu nombre?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "2822caad-6023-4c97-99da-292a948e5370",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Muy bien,  entonces ¿Cuántas personas hay en el equipo ?"
+            },
+            {
+              "lang": "es",
+              "value": "Ok, ¿Cuántos integrantes tiene tu equipo?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "1e2c28f8-3c80-4370-9434-eba928f556fc",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Excelente, ¿A que dirección de correo electrónico debería enviarte tus boletos?"
+            },
+            {
+              "lang": "es",
+              "value": "Gracias, ¿Cual es la dirección de correo a la que enviare tus boletos?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Gracias, tu registro se ha realizado con éxito. Nos vemos en el Hack"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
