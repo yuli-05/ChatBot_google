@@ -1,0 +1,9 @@
+{
+  "id": "cf29a4d1-2ce8-42cd-b3d6-bc4c26902b6d",
+  "name": "first-time",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
