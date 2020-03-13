@@ -1,0 +1,272 @@
+[
+  {
+    "id": "b74f2347-686b-43a6-88fe-86fbf5a172d4",
+    "data": [
+      {
+        "text": "somos ",
+        "userDefined": false
+      },
+      {
+        "text": "programadores",
+        "alias": "type-of-hacker",
+        "meta": "@type-of-hacker",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de2b8036-9397-45b8-9891-24ed245ab291",
+    "data": [
+      {
+        "text": "Somos ",
+        "userDefined": false
+      },
+      {
+        "text": "desarrolladores",
+        "alias": "type-of-hacker",
+        "meta": "@type-of-hacker",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5191e84b-aece-496c-97a9-515199e70502",
+    "data": [
+      {
+        "text": "si",
+        "alias": "first-time",
+        "meta": "@first-time",
+        "userDefined": true
+      },
+      {
+        "text": ",estamos muy nerviosos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53116ff9-0dbb-4d1a-9161-2fd287f12cc6",
+    "data": [
+      {
+        "text": "No",
+        "alias": "first-time",
+        "meta": "@first-time",
+        "userDefined": true
+      },
+      {
+        "text": ", he ",
+        "userDefined": false
+      },
+      {
+        "text": "ido",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a varios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68085bf4-088a-4645-8ba6-3a3ad95df578",
+    "data": [
+      {
+        "text": "a mi correo ",
+        "userDefined": false
+      },
+      {
+        "text": "yuli@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78d0d37c-dffe-481c-9447-df129e18ae40",
+    "data": [
+      {
+        "text": "al correo ",
+        "userDefined": false
+      },
+      {
+        "text": "example@hotmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e620528-cd2a-4f05-bfb8-62ce6f5486b5",
+    "data": [
+      {
+        "text": "Mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " equipo tiene ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " integrantes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19fde8ac-79f6-4ee2-9f42-6f72ce1b284d",
+    "data": [
+      {
+        "text": "Somos ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " personas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd615709-d382-45e4-a162-21c4a53ad52a",
+    "data": [
+      {
+        "text": "Me llamo ",
+        "userDefined": false
+      },
+      {
+        "text": "Luis",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c94a117e-d74a-4c66-aec6-d4b588ec61d5",
+    "data": [
+      {
+        "text": "Mi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nombre ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Julissa",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f27627c-ac25-4c44-85c2-7f2d76dd37f3",
+    "data": [
+      {
+        "text": "Quiero registrarme al evento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00bb5fc8-646f-4fcd-a6d8-81063765a476",
+    "data": [
+      {
+        "text": "Quiero inscribirme al hack",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5dff1889-90e1-4765-ab81-a929486479d7",
+    "data": [
+      {
+        "text": "Hola, quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " boleto para ",
+        "userDefined": false
+      },
+      {
+        "text": "UTEC",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Hacks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

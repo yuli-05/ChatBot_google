@@ -1,0 +1,161 @@
+{
+  "id": "00170282-a9af-42ec-b3b0-016086a58b90",
+  "name": "RSVPHack",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "926a3d4b-b58b-4142-a2c4-46ed5ad7cba9",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Claro, para comenzar tu registro ¿Podrás proporcionarme tu nombre, por favor?"
+            },
+            {
+              "lang": "es",
+              "value": "Muy bien, ¿Cuál es tu nombre?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "2822caad-6023-4c97-99da-292a948e5370",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Muy bien,  entonces ¿Cuántas personas hay en el equipo ?"
+            },
+            {
+              "lang": "es",
+              "value": "Ok, ¿Cuántos integrantes tiene tu equipo?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "1e2c28f8-3c80-4370-9434-eba928f556fc",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Excelente, ¿A que dirección de correo electrónico debería enviarte tus boletos?"
+            },
+            {
+              "lang": "es",
+              "value": "Gracias, ¿Cual es la dirección de correo a la que enviare tus boletos?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "6c0b39b8-44a2-4954-9e99-5be9184e25e5",
+          "required": true,
+          "dataType": "@type-of-hacker",
+          "name": "type-of-hacker",
+          "value": "$type-of-hacker",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Como describirías a  los integrantes de tu equipo?\n(Makers,Devs,Negocios)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e0a6df0e-72a3-4366-9f35-63b9f11b8a50",
+          "required": true,
+          "dataType": "@first-time",
+          "name": "first-time",
+          "value": "$first-time",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Genial, ¿Es tu primer hackathon?"
+            },
+            {
+              "lang": "es",
+              "value": "Por último ¿Has ido a un hackathon antes?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "es",
+          "condition": "",
+          "title": "UTEC Hacks",
+          "formattedText": "Gracias, tu registro se ha realizado con éxito. Nos vemos en el Hack",
+          "image": {
+            "url": "https://www.culturacuantica.com.ar/wp-content/uploads/lenguajes-de-programacion-mas-elegidos-en-hackatones.jpg",
+            "accessibilityText": "Fotografia Oficial Last Hack"
+          },
+          "buttons": [
+            {
+              "title": "UTEC",
+              "openUrlAction": {
+                "url": "http://www.utectulancingo.edu.mx/",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Gracias, tu registro se ha realizado con éxito. Nos vemos en el Hack"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
