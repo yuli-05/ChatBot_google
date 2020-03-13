@@ -1,0 +1,36 @@
+[
+  {
+    "value": "maker",
+    "synonyms": [
+      "maker",
+      "electronica",
+      "circuitos",
+      "arduino",
+      "mecatronica",
+      "electromecanica",
+      "comunicaciones",
+      "hacedores"
+    ]
+  },
+  {
+    "value": "devs",
+    "synonyms": [
+      "devs",
+      "desarrolladores",
+      "software",
+      "codigo",
+      "development",
+      "programacion",
+      "tecnologias"
+    ]
+  },
+  {
+    "value": "negocios",
+    "synonyms": [
+      "negocios",
+      "canvas",
+      "emprendedor",
+      "ideas"
+    ]
+  }
+]
